@@ -18,7 +18,7 @@ const description =
   "Software engineer building lending, payments and credit-risk systems for African fintech — Spring Boot, Kotlin, Django, Next.js.";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://alex-mwaura-m.vercel.app"),
+  metadataBase: new URL("https://alexmwangimwaura.vercel.app"),
   title,
   description,
   openGraph: { title, description, type: "website", url: "/" },
